@@ -1,4 +1,4 @@
-## Git Pairing Exercise
+## Git Pairing Exercise (Courtesy of Ada Developers Academy)
 
 * Sort your names alphabetically. The first is person "A" and the second is person "B"
 * `A` should use their own laptop, go into the directory where they store projects,

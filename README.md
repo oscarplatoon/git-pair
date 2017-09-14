@@ -1,6 +1,7 @@
 ## Git Pairing Exercise (Courtesy of Ada Developers Academy)
 
 * Sort your names alphabetically. The first is person "A" and the second is person "B"
+* Fork this repo to person `A`'s account
 * `A` should use their own laptop, go into the directory where they store projects,
 and create a directory named `poetry`.
 * `A` then goes into the `poetry` directory and runs `git init`

@@ -19,9 +19,7 @@ and create a directory named `poetry`.
 * `B` creates a branch on their local machine named `verse_3` and adds in [this content under the appropriate heading](https://gist.githubusercontent.com/jcasimir/1e85576d1435525d2ddf/raw/c307ef3d5889f4b1e11e7217644717a1e0e32299/verse%25203.txt)
 * `A` commits the change and pushes their branch to GitHub with `git push origin verse_1`
 * `B` commits the change and pushes their branch to GitHub with `git push origin verse_3`
-* `A` navigates to the homepage of the repository on GitHub (**Hint** If you have the [Hub](https://hub.github.com/) CLI installed, you can do this easily with `hub browse`).
-There should be a button available to "Compare and Create Pull Request" for your recently pushed branch (`verse_1`).
-Select this option and walk through the steps to Create a Pull Request for this branch.
+* `A` navigates to the homepage of the repository on GitHub. There should be a button available to "Compare and Create Pull Request" for your recently pushed branch (`verse_1`). Select this option and walk through the steps to Create a Pull Request for this branch.
 * `B` Repeats these steps to create a Pull Request for their `verse_3` branch
 * `B` navigates to the repository on github and selects the tab for "Pull Requests". You should see
 `A`'s pull request listed. Select this pull request, and use the green "Merge Pull Request" button to merge the PR.

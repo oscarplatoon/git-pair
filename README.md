@@ -14,7 +14,7 @@ and create a directory named `poetry`.
 * `A` should add `B` as a collaborator to the repository in GitHub
 * `B` then opens the poetry file locally and adds [this content of headings](https://gist.githubusercontent.com/jcasimir/95be7c57e8e027642532/raw/9e57299977273e4b6e4f1073c6b5d37bab842930/headings.txt)
 * `B` adds and commits that change, then pushes it to GitHub
-* `A` pulls to commit down to their local machine
+* `A` pulls the commit down to their local machine
 * `A` creates a branch on their local machine named `verse_1` and adds in [this content under the appropriate heading](https://gist.githubusercontent.com/jcasimir/0d6939ccf64601be374d/raw/55cad33533d63ae14b8a7ef3781fe2d603f75ab6/verse%25201.txt)
 * `B` creates a branch on their local machine named `verse_3` and adds in [this content under the appropriate heading](https://gist.githubusercontent.com/jcasimir/1e85576d1435525d2ddf/raw/c307ef3d5889f4b1e11e7217644717a1e0e32299/verse%25203.txt)
 * `A` commits the change and pushes their branch to GitHub with `git push origin verse_1`

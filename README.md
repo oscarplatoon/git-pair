@@ -1,5 +1,6 @@
 ## Git Pairing Exercise (Courtesy of Ada Developers Academy)
 
+* Note: if `master` doesn't work, use `main` instead of `master` in this exercise. Find out why: https://github.com/github/renaming
 * Sort your names alphabetically. The first is person "A" and the second is person "B"
 * Fork this repo to person `A`'s account
 * `A` should use their own laptop, go into the directory where they store projects,
@@ -11,7 +12,7 @@ and create a directory named `poetry`.
 * `A` follows the directions shown by GitHub to add the remote to their local repo
 * `A` pushes the local commits up to GitHub
 * `B` should then clone the repository to their local machine
-* `A` should add `B` as a collaborator to the repository in GitHub
+* `A` should add `B` as a collaborator to the repository in GitHub (Settings -> manage access -> invite a collaborator -> enter in B's Github username)
 * `B` then opens the poetry file locally and adds [this content of headings](https://gist.githubusercontent.com/jcasimir/95be7c57e8e027642532/raw/9e57299977273e4b6e4f1073c6b5d37bab842930/headings.txt)
 * `B` adds and commits that change, then pushes it to GitHub
 * `A` pulls the commit down to their local machine
@@ -65,3 +66,5 @@ to master.
 to retrieve the newly merged changes.
 
 Your finished product should look like [this](https://gist.githubusercontent.com/worace/b1a9cefa4da6a08ea788/raw/93db0b1c59c684d03c2b8eeafd581391c378c70b/caged_bird.md).
+
+Hint: go step-by-step and follow the instructions to a T.
